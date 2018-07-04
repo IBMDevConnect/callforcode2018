@@ -15,3 +15,8 @@
 [Hyderabad](https://github.com/IBMDevConnect/callforcode2018/blob/master/cfc_agenda_hyd.xlsx)
 
 [Pune](https://github.com/IBMDevConnect/callforcode2018/blob/master/cfc_agenda_Pune.xlsx)
+
+# CALL FOR CODE GLOBAL CHALLENGE
+
+[https://developer.ibm.com/callforcode/](https://developer.ibm.com/callforcode/)
+[https://callforcode.org/](https://callforcode.org/)
